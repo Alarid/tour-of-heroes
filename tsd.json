@@ -1,0 +1,12 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "angular/legacy/angular-1.4.d.ts": {
+      "commit": "146c4ad615ab6da2a878ae25f0de832540884640"
+    }
+  }
+}
